@@ -1,6 +1,11 @@
-# Authentic Retro Arch Displays
+# Authentic RetroArch Displays
 
 A collection of shader presets to emulate various console display mediums authentically in RetroArch.
+
+## Prerequisites & Requirements
+
+1. **Slang Shaders:** Open RetroArch, go to **Main Menu -> Online Updater**, and select **Update Slang Shaders**. (This ensures the underlying shader passes referenced by these presets are present on your system).
+2. **Video Driver:** Ensure your RetroArch video driver is set to **Vulkan** (recommended) or another Slang-compatible driver (*Settings -> Drivers -> Video*).
 
 ## Installation Instructions
 
