@@ -25,9 +25,9 @@ A collection of shader presets to emulate various console display mediums authen
 * Nintendo 64 (N64)
 * Sega Master System (Mark III)
 * Sega Mega Drive / Genesis
-* Sega Mega CD / Sega CD
+* Sega Mega-CD / Sega CD
 * Sega 32X
-* Sony Playstation
+* Sony PlayStation
 
 **Handheld Consoles (LCD/Bezel emulation):**
 * Atari Lynx
