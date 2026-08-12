@@ -20,12 +20,12 @@ A collection of shader presets to emulate various console display mediums authen
 
 **Home Consoles (NTSC Composite + CRT):**
 * Atari 2600
-* Nintendo Entertainment System (NES)
-* Super Nintendo Entertainment System (SNES)
-* Nintendo 64 (N64)
-* Sega Master System (Mark III)
-* Sega Mega Drive / Genesis
-* Sega Mega-CD / Sega CD
+* Nintendo Entertainment System (Famicom)
+* Super Nintendo Entertainment System (Super Famicom)
+* Nintendo 64
+* Sega Master System (Sega Mark III)
+* Sega Genesis (Mega Drive)
+* Sega CD (Mega-CD)
 * Sega 32X
 * Sony PlayStation
 
@@ -35,6 +35,7 @@ A collection of shader presets to emulate various console display mediums authen
 * Nintendo Game Boy Color
 * Nintendo Game Boy Advance
 * Sega Game Gear
+* Sony PlayStation Portable
 
 ## Technical Notes & Known Limitations
 
