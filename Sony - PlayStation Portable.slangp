@@ -1,0 +1,2 @@
+#reference ":/shaders/shaders_slang/bezel/koko-aio/Presets_Handhelds-ng/PSP.slangp"
+DO_AMBILIGHT = "0.000000"
