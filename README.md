@@ -19,7 +19,6 @@ A collection of shader presets to emulate various console display mediums authen
 ## Included Console Presets
 
 **Home Consoles (NTSC Composite + CRT):**
-
 * Atari 2600
 * Atari 5200
 * Atari 7800
@@ -35,13 +34,11 @@ A collection of shader presets to emulate various console display mediums authen
 * The 3DO Interactive Multiplayer
 
 **Home Consoles (CRT only, no NTSC composite pass):**
-
 * Nintendo GameCube
 * Sega Dreamcast
 * Sony PlayStation 2
 
 **Handheld Consoles (LCD/Bezel emulation):**
-
 * Atari Lynx
 * Nintendo Game Boy
 * Nintendo Game Boy Color
