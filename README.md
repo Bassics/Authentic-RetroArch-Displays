@@ -10,7 +10,8 @@ A collection of shader presets to emulate various console display mediums authen
 ## Installation Instructions
 
 1. Download the shader pack.
-2. Extract the folder and place it directly into your RetroArch `shaders` directory. *(Typically located at `RetroArch/shaders/`)*
+2. Extract the folder and place it directly into your RetroArch `shaders` directory.
+*(Typically located at `RetroArch/shaders/`)*
 3. Launch RetroArch, load a game, and open the Quick Menu.
 4. Navigate to **Shaders** -> **Load** and select the `.slangp` file corresponding to the console you are currently playing.
 5. Ensure **Video -> Scale -> Integer Scale** is set appropriately for your setup if you experience uneven scanlines.
